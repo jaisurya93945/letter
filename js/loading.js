@@ -4,7 +4,7 @@ $(function(){
     $(this).attr('src','img/Fon_op.png');
   },
   mouseleave: function(){
-    $(this).attr('src','img/fon_cls.png');
+    $(this).attr('src','img/FONCL1.png');
   }
   });
 
