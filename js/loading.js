@@ -4,7 +4,7 @@ $(function(){
     $(this).attr('src','img/test2.png');
   },
   mouseleave: function(){
-    $(this).attr('src','img/test1.png');
+    $(this).attr('src','img/Fondhi_open.png');
   }
   });
 
@@ -14,7 +14,7 @@ $(function(){
     $(this).attr('src','img/test2.png');
   },
   mouseleave: function(){
-    $(this).attr('src','img/test1.png');
+    $(this).attr('src','img/smol_closed.png');
   }
   });
   
@@ -24,7 +24,7 @@ $(function(){
     $(this).attr('src','img/test2.png');
   },
   mouseleave: function(){
-    $(this).attr('src','img/test1.png');
+    $(this).attr('src','img/kuth_closed.png');
   }
   });
 });
