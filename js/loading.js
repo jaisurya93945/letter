@@ -1,10 +1,10 @@
 console.log("HELP");
 $(function(){
   $("#git_photo").on({ mouseenter: function(){
-    $(this).attr('src','img/Fon_op.png');
+    $(this).attr('src','img/one2.png');
   },
   mouseleave: function(){
-    $(this).attr('src','img/FONCL1.png');
+    $(this).attr('src','img/one1.png');
   }
   });
 
