@@ -11,20 +11,20 @@ $(function(){
 
 
   $("#bash_photo").on({ mouseenter: function(){
-    $(this).attr('src','img/bash00.png');
+    $(this).attr('src','img/test2.png');
   },
   mouseleave: function(){
-    $(this).attr('src','img/bash22.png');
+    $(this).attr('src','img/test1.png');
   }
   });
   
 
 
   $("#github_photo").on({ mouseenter: function(){
-    $(this).attr('src','img/github00.png');
+    $(this).attr('src','img/test2.png');
   },
   mouseleave: function(){
-    $(this).attr('src','img/github22.png');
+    $(this).attr('src','img/test1.png');
   }
   });
 });
